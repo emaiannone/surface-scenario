@@ -1,0 +1,10 @@
+projects:
+  - id: locally-stored-project
+    location: wonderful-project
+    filesRegex: .*/bean/.*
+    metrics: ALL
+  - id: remotely-stored-project
+    location: https://github.com/emaiannone/surface-test-project
+    metrics: CAT,CMT,CAIW,CCDA,CIDA
+    revisions:
+      - all: true
