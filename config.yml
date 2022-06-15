@@ -7,4 +7,5 @@ projects:
     location: https://github.com/emaiannone/surface-test-project
     metrics: CAT,CMT,CIDA,RPB,CAIW,CCT,CDP
     revisions:
-      - range: ea4f388b4..803e3c896
+      type: range
+      value: ea4f388b4..803e3c896
