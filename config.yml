@@ -1,11 +1,11 @@
 projects:
   - id: locally-stored-project
     location: wonderful-project
-    metrics: ALL
+    metrics: CAT,CMT,CIDA,RPB,CAIW,CCT,CDP
     files: bean
   - id: remotely-stored-project
     location: https://github.com/emaiannone/surface-test-project
-    metrics: CAT,CMT,CIDA,RPB,CAIW,CCT,CDP
+    metrics: ALL,-CCE
     revisionFilter:
       type: range
       value: ea4f388b4..803e3c896
