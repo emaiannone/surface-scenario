@@ -1,8 +1,8 @@
 projects:
   - id: locally-stored-project
     location: wonderful-project
-    files: bean
     metrics: ALL
+    files: bean
   - id: remotely-stored-project
     location: https://github.com/emaiannone/surface-test-project
     metrics: CAT,CMT,CIDA,RPB,CAIW,CCT,CDP
