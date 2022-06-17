@@ -8,4 +8,4 @@ projects:
     metrics: ALL,-CCE
     revisionFilter:
       type: range
-      value: ea4f388b4..803e3c896
+      value: ea4f388b..59870bde
