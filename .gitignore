@@ -12,7 +12,7 @@
 
 # Package Files #
 *.jar
-!surface.jar
+!surface*.jar
 *.war
 *.nar
 *.ear
