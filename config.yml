@@ -9,3 +9,4 @@ projects:
     revisionFilter:
       type: range
       value: 4135ea1f..2f3ed97b
+    branch: master
