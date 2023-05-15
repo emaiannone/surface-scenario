@@ -5,10 +5,6 @@
     "projectMetrics": {
       "CAT": 7,
       "CMT": 13,
-      "CIDA": 0.0,
-      "RPB": false,
-      "CAIW": 0.3170731707317073,
-      "CCT": 3,
       "CDP": 0.6
     },
     "criticalClasses": [
@@ -17,10 +13,7 @@
         "filePath": "src/main/java/org/example/wonderful/core/UserBean.java",
         "classMetrics": {
           "CAT": 2,
-          "CMT": 4,
-          "CIDA": 0.0,
-          "RPB": false,
-          "CAIW": 0.5
+          "CMT": 4
         },
         "classifiedAttributesMethods": {
           "email": [
@@ -38,10 +31,7 @@
         "filePath": "src/main/java/org/example/wonderful/db/UserDTO.java",
         "classMetrics": {
           "CAT": 4,
-          "CMT": 8,
-          "CIDA": 0.0,
-          "RPB": false,
-          "CAIW": 0.25
+          "CMT": 8
         },
         "classifiedAttributesMethods": {
           "email": [
@@ -67,10 +57,7 @@
         "filePath": "src/main/java/org/example/wonderful/service/UserService.java",
         "classMetrics": {
           "CAT": 1,
-          "CMT": 1,
-          "CIDA": 0.0,
-          "RPB": false,
-          "CAIW": 1.0
+          "CMT": 1
         },
         "classifiedAttributesMethods": {
           "PASSWORD_HASHER": [
@@ -88,298 +75,178 @@
       {
         "revision": "4135ea1f4cd69fa46fcbdfc8ba7c1b1b94bdc5a6",
         "projectMetrics": {
-          "CAT": 2,
-          "CMT": 4,
-          "CCT": 1,
+          "CAT": 0,
+          "CMT": 0,
+          "CCT": 0,
           "CIDA": 0.0,
           "CCDA": 0.0,
-          "COA": 1.0,
+          "COA": 0.0,
           "RPB": false,
-          "CMAI": 0.5,
-          "CAAI": 0.5,
-          "CAIW": 0.5,
-          "CMW": 0.5,
-          "CWMP": 0.25,
+          "CMAI": 0.0,
+          "CAAI": 0.0,
+          "CAIW": 0.0,
+          "CMW": 0.0,
+          "CWMP": 0.0,
           "CCC": 0.0,
           "CPCC": 0.0,
-          "CME": 1.0,
+          "CME": 0.0,
           "UACA": 0.0,
-          "UCAM": 0.5,
-          "UCAC": 1.0,
-          "CDP": 1.0,
-          "CSCP": 1.0,
+          "UCAM": 0.0,
+          "UCAC": 0.0,
+          "CDP": 0.0,
+          "CSCP": 0.0,
           "CSP": 0.0,
           "CSI": 0.0,
           "CMI": 0.0,
           "CAI": 0.0,
           "RCA": 0.0,
-          "WCA": 1.0,
-          "RCM": 2.0,
-          "WCM": 1.75,
-          "RCC": 2.0,
-          "WCC": 2.0,
-          "SAM": 7.0,
-          "PRAS": 4.0,
-          "PSWL": 2.75,
-          "PFSD": 2.0,
-          "PLCM": 4.0,
-          "PI": 2.0,
-          "PEM": 7.0,
-          "TSI": 26.5
+          "WCA": 0.0,
+          "RCM": 0.0,
+          "WCM": 0.0,
+          "RCC": 0.0,
+          "WCC": 0.0,
+          "SAM": 0.0,
+          "PRAS": 0.0,
+          "PSWL": 0.0,
+          "PFSD": 0.0,
+          "PLCM": 0.0,
+          "PI": 0.0,
+          "PEM": 0.0,
+          "TSI": 0.0
         },
-        "criticalClasses": [
-          {
-            "className": "org.example.amazing.core.UserBean",
-            "filePath": "amazing-project/src/main/java/org/example/amazing/core/UserBean.java",
-            "classMetrics": {
-              "CAT": 2,
-              "CMT": 4,
-              "CIDA": 0.0,
-              "CCDA": 0.0,
-              "COA": 1.0,
-              "RPB": false,
-              "CMAI": 0.5,
-              "CAAI": 0.5,
-              "CAIW": 0.5,
-              "CMW": 0.5,
-              "CWMP": 0.25,
-              "UACA": 0.0,
-              "UCAM": 0.5
-            },
-            "classifiedAttributesMethods": {
-              "email": [
-                "setEmail(String)",
-                "getEmail()"
-              ],
-              "username": [
-                "setUsername(String)",
-                "getUsername()"
-              ]
-            }
-          }
-        ]
+        "criticalClasses": []
       },
       {
         "revision": "ea4f388b4a85f9b56e646cdb72e2370bc46a7db0",
         "projectMetrics": {
-          "CAT": 2,
-          "CMT": 4,
-          "CCT": 1,
+          "CAT": 0,
+          "CMT": 0,
+          "CCT": 0,
           "CIDA": 0.0,
           "CCDA": 0.0,
-          "COA": 1.0,
+          "COA": 0.0,
           "RPB": false,
-          "CMAI": 0.5,
-          "CAAI": 0.5,
-          "CAIW": 0.5,
-          "CMW": 0.5,
-          "CWMP": 0.25,
+          "CMAI": 0.0,
+          "CAAI": 0.0,
+          "CAIW": 0.0,
+          "CMW": 0.0,
+          "CWMP": 0.0,
           "CCC": 0.0,
           "CPCC": 0.0,
-          "CME": 1.0,
+          "CME": 0.0,
           "UACA": 0.0,
-          "UCAM": 0.5,
-          "UCAC": 1.0,
-          "CDP": 1.0,
-          "CSCP": 1.0,
+          "UCAM": 0.0,
+          "UCAC": 0.0,
+          "CDP": 0.0,
+          "CSCP": 0.0,
           "CSP": 0.0,
           "CSI": 0.0,
           "CMI": 0.0,
           "CAI": 0.0,
           "RCA": 0.0,
-          "WCA": 1.0,
-          "RCM": 2.0,
-          "WCM": 1.75,
-          "RCC": 2.0,
-          "WCC": 2.0,
-          "SAM": 7.0,
-          "PRAS": 4.0,
-          "PSWL": 2.75,
-          "PFSD": 2.0,
-          "PLCM": 4.0,
-          "PI": 2.0,
-          "PEM": 7.0,
-          "TSI": 26.5
+          "WCA": 0.0,
+          "RCM": 0.0,
+          "WCM": 0.0,
+          "RCC": 0.0,
+          "WCC": 0.0,
+          "SAM": 0.0,
+          "PRAS": 0.0,
+          "PSWL": 0.0,
+          "PFSD": 0.0,
+          "PLCM": 0.0,
+          "PI": 0.0,
+          "PEM": 0.0,
+          "TSI": 0.0
         },
-        "criticalClasses": [
-          {
-            "className": "org.example.amazing.core.UserBean",
-            "filePath": "amazing-project/src/main/java/org/example/amazing/core/UserBean.java",
-            "classMetrics": {
-              "CAT": 2,
-              "CMT": 4,
-              "CIDA": 0.0,
-              "CCDA": 0.0,
-              "COA": 1.0,
-              "RPB": false,
-              "CMAI": 0.5,
-              "CAAI": 0.5,
-              "CAIW": 0.5,
-              "CMW": 0.5,
-              "CWMP": 0.25,
-              "UACA": 0.0,
-              "UCAM": 0.5
-            },
-            "classifiedAttributesMethods": {
-              "email": [
-                "setEmail(String)",
-                "getEmail()"
-              ],
-              "username": [
-                "setUsername(String)",
-                "getUsername()"
-              ]
-            }
-          }
-        ]
+        "criticalClasses": []
       },
       {
         "revision": "7470b10d6265f111054246f9f09e4ec4c4c96d2c",
         "projectMetrics": {
-          "CAT": 2,
-          "CMT": 4,
-          "CCT": 1,
+          "CAT": 0,
+          "CMT": 0,
+          "CCT": 0,
           "CIDA": 0.0,
           "CCDA": 0.0,
-          "COA": 1.0,
+          "COA": 0.0,
           "RPB": false,
-          "CMAI": 0.5,
-          "CAAI": 0.5,
-          "CAIW": 0.5,
-          "CMW": 0.5,
-          "CWMP": 0.25,
+          "CMAI": 0.0,
+          "CAAI": 0.0,
+          "CAIW": 0.0,
+          "CMW": 0.0,
+          "CWMP": 0.0,
           "CCC": 0.0,
           "CPCC": 0.0,
-          "CME": 1.0,
+          "CME": 0.0,
           "UACA": 0.0,
-          "UCAM": 0.5,
-          "UCAC": 1.0,
-          "CDP": 1.0,
-          "CSCP": 1.0,
+          "UCAM": 0.0,
+          "UCAC": 0.0,
+          "CDP": 0.0,
+          "CSCP": 0.0,
           "CSP": 0.0,
           "CSI": 0.0,
           "CMI": 0.0,
           "CAI": 0.0,
           "RCA": 0.0,
-          "WCA": 1.0,
-          "RCM": 2.0,
-          "WCM": 1.75,
-          "RCC": 2.0,
-          "WCC": 2.0,
-          "SAM": 7.0,
-          "PRAS": 4.0,
-          "PSWL": 2.75,
-          "PFSD": 2.0,
-          "PLCM": 4.0,
-          "PI": 2.0,
-          "PEM": 7.0,
-          "TSI": 26.5
+          "WCA": 0.0,
+          "RCM": 0.0,
+          "WCM": 0.0,
+          "RCC": 0.0,
+          "WCC": 0.0,
+          "SAM": 0.0,
+          "PRAS": 0.0,
+          "PSWL": 0.0,
+          "PFSD": 0.0,
+          "PLCM": 0.0,
+          "PI": 0.0,
+          "PEM": 0.0,
+          "TSI": 0.0
         },
-        "criticalClasses": [
-          {
-            "className": "org.example.amazing.core.UserBean",
-            "filePath": "amazing-project/src/main/java/org/example/amazing/core/UserBean.java",
-            "classMetrics": {
-              "CAT": 2,
-              "CMT": 4,
-              "CIDA": 0.0,
-              "CCDA": 0.0,
-              "COA": 1.0,
-              "RPB": false,
-              "CMAI": 0.5,
-              "CAAI": 0.5,
-              "CAIW": 0.5,
-              "CMW": 0.5,
-              "CWMP": 0.25,
-              "UACA": 0.0,
-              "UCAM": 0.5
-            },
-            "classifiedAttributesMethods": {
-              "email": [
-                "setEmail(String)",
-                "getEmail()"
-              ],
-              "username": [
-                "setUsername(String)",
-                "getUsername()"
-              ]
-            }
-          }
-        ]
+        "criticalClasses": []
       },
       {
         "revision": "2f3ed97b5f29f8fc094e1f61fb4296e9a77e26aa",
         "projectMetrics": {
-          "CAT": 2,
-          "CMT": 4,
-          "CCT": 1,
+          "CAT": 0,
+          "CMT": 0,
+          "CCT": 0,
           "CIDA": 0.0,
           "CCDA": 0.0,
-          "COA": 1.0,
+          "COA": 0.0,
           "RPB": false,
-          "CMAI": 0.5,
-          "CAAI": 0.5,
-          "CAIW": 0.5,
-          "CMW": 0.5,
-          "CWMP": 0.25,
+          "CMAI": 0.0,
+          "CAAI": 0.0,
+          "CAIW": 0.0,
+          "CMW": 0.0,
+          "CWMP": 0.0,
           "CCC": 0.0,
           "CPCC": 0.0,
-          "CME": 1.0,
+          "CME": 0.0,
           "UACA": 0.0,
-          "UCAM": 0.5,
-          "UCAC": 1.0,
-          "CDP": 1.0,
-          "CSCP": 1.0,
+          "UCAM": 0.0,
+          "UCAC": 0.0,
+          "CDP": 0.0,
+          "CSCP": 0.0,
           "CSP": 0.0,
           "CSI": 0.0,
           "CMI": 0.0,
           "CAI": 0.0,
           "RCA": 0.0,
-          "WCA": 1.0,
-          "RCM": 2.0,
-          "WCM": 1.75,
-          "RCC": 2.0,
-          "WCC": 2.0,
-          "SAM": 7.0,
-          "PRAS": 4.0,
-          "PSWL": 2.75,
-          "PFSD": 2.0,
-          "PLCM": 4.0,
-          "PI": 2.0,
-          "PEM": 7.0,
-          "TSI": 26.5
+          "WCA": 0.0,
+          "RCM": 0.0,
+          "WCM": 0.0,
+          "RCC": 0.0,
+          "WCC": 0.0,
+          "SAM": 0.0,
+          "PRAS": 0.0,
+          "PSWL": 0.0,
+          "PFSD": 0.0,
+          "PLCM": 0.0,
+          "PI": 0.0,
+          "PEM": 0.0,
+          "TSI": 0.0
         },
-        "criticalClasses": [
-          {
-            "className": "org.example.amazing.core.UserBean",
-            "filePath": "amazing-project/src/main/java/org/example/amazing/core/UserBean.java",
-            "classMetrics": {
-              "CAT": 2,
-              "CMT": 4,
-              "CIDA": 0.0,
-              "CCDA": 0.0,
-              "COA": 1.0,
-              "RPB": false,
-              "CMAI": 0.5,
-              "CAAI": 0.5,
-              "CAIW": 0.5,
-              "CMW": 0.5,
-              "CWMP": 0.25,
-              "UACA": 0.0,
-              "UCAM": 0.5
-            },
-            "classifiedAttributesMethods": {
-              "email": [
-                "setEmail(String)",
-                "getEmail()"
-              ],
-              "username": [
-                "setUsername(String)",
-                "getUsername()"
-              ]
-            }
-          }
-        ]
+        "criticalClasses": []
       }
     ]
   }
